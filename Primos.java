@@ -1,4 +1,3 @@
-package numerosPrimos;
 
 public class Primos {
 	
